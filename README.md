@@ -2,7 +2,7 @@
 
 This is a machine learning project using regressors to predict Electrical energy output (EP) of the plant, using data from excel file
 
-A several visual aids like graphs and confusion matrix have been created, to show and analyze the results.
+A several visual aids like graphs and correlation matrix have been created, to show and analyze the results.
 
 ## Content
 - [Project](#Project)
