@@ -54,7 +54,7 @@ libraries and modules, their implementation in current project:
 *   [seaborn](https://seaborn.pydata.org/) - statistical data visualization
 *   [sklearn](https://scikit-learn.org/stable/) - Machine Learning in Python
 *   [feature_engine](https://feature-engine.readthedocs.io/en/latest/) - Python library with multiple transformers to engineer and select features to use in machine learning models
-*   [openpyxl](https://pypi.org/project/openpyxl/) -  for reading/writing Excel 2010 xlsx/xlsm/xltx/xltm files
+*   [openpyxl](https://openpyxl.readthedocs.io/en/stable/) -  for reading/writing Excel 2010 xlsx/xlsm/xltx/xltm files
 
 ### Algorithms
 
